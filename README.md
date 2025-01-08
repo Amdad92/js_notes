@@ -1,2 +1,4 @@
-# js_notes
-This repository contains my JavaScript notes compiled during my learning journey. These notes serve as a resource to tackle various programming challenges and problem-solving tasks effectively in the future.
+1. Implement a calculator sytem to add functionality for(sum,sub,div,reset).
+2. Implement game score system to update score like(icrease,decrease and reset score).
+   
+
